@@ -1,0 +1,32 @@
+body {
+    padding:20px;
+    background-color: aliceblue;
+    text-align: center;
+    background: #000;
+}
+h3{
+    color: white;
+    font-style: italic;
+    font-size: 18px;
+}
+p{
+    color: white;
+    font-size: 17px;
+    font-style: italic;
+}
+input {
+    padding:5px;
+    background-color:transparent;
+    border:none;
+    border-bottom:solid 4px #8c52ff;
+    width:250px;
+    font-size:16px;
+    color: white;
+}
+
+.qr-btn {
+    background-color:#8c52ff;
+    padding:8px;
+    color:white;
+    cursor:pointer;
+}
